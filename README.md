@@ -2,7 +2,7 @@
    Manan Shah 
 
 
-**`Digital Craftsman | Endorphin Talisman | Cerberation Concocter`**
+**`Developer | Poet | Comedian`**
 
 Hey there! I'm Manan Shah, a dedicated computer science student at the University of Manchester. I have a strong affinity for all things tech and an insatiable curiosity for exploring the world of code. Currently focused on building my skills as a full stack developer, I'm equally captivated by the fascinating realm of data science. <br>
 I'm also a stand up comedian and a poet who enjoys the company of other people and loves to learn from them. I'm always looking for new opportunities to collaborate and learn from others, so feel free to reach out to me!
